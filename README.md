@@ -1,1 +1,1 @@
-# mini.github.io
+# place.github.io
